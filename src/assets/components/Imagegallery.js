@@ -14,7 +14,7 @@ import im13 from "../images/im13.jpg"
 import im14 from "../images/im14.jpg"
 import im15 from "../images/im15.jpg"
 
-function Img_gallery() {
+function Imgagegallery() {
     return (
         <section className="gallery">
 
@@ -133,4 +133,4 @@ function Img_gallery() {
     );
 }
 
-export default Img_gallery;
+export default Imgagegallery;
